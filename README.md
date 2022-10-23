@@ -6,8 +6,8 @@
 
 ### Participants
 
-Jhanvi - [@Jhanvi528](https://github.com/Jhanvi528)<br>
-Aarav- [@Aaravgoyall](https://github.com/aaravgoyall)<br>
+Akash - [@rajoriaakash](https://github.com/rajoriaakash)<br>
+Koustubh- [@agarwalkoustubh38](https://github.com/agarwalkoustubh38)<br>
 Aman - [@aman-ninja](https://github.com/aman-ninja)
 
 ### Description
@@ -29,7 +29,7 @@ Run the development server:
 
 ### Preview
 
-![Home Page](https://i.ibb.co/R2B11fm/Screenshot-20221022-233203.png)
+![Home Page](https://ibb.co/3ptMcmw)
 ![Product Page](https://i.ibb.co/g9PqYw9/Screenshot-20221022-233254.png)
 ![Cart Preview](https://i.ibb.co/NFhb2C9/Screenshot-20221022-233316.png)
 ![Checkout Info](https://i.ibb.co/nkQcS0z/Screenshot-20221023-153006.png)
